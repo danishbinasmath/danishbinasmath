@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @danishbinasmath
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning front-end frameworkd
+- 👋 Hi, I’m @danishbinasmath (Muhammad Danish)
+- 👀 I’m a Web Developer
+- 🌱 I’m currently working on React and DSA.
 - 💞️ I’m looking to collaborate for internship
-- 📫 How to reach me through my mail(muhammaddanish.official01@gmail.com)
+- 📫 Reach me through my mail(muhammaddanish.official01@gmail.com)
 
 
